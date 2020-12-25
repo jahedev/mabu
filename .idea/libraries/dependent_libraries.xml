@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="dependent-libraries">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/mabu 2/src/netbeans-build/lib/utils4j.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/mabu 2/src/netbeans-build/lib/commons-lang3-3.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
